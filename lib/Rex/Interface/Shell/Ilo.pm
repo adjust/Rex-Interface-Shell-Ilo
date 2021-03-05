@@ -49,3 +49,52 @@ sub exec {
 }
 
 1;
+
+__END__
+
+=pod
+
+=head1 NAME
+
+Rex::Interface::Shell::Ilo -- Rex module to support iLO
+
+=head1 DESCRIPTION
+
+Rex module to support iLO via the SMASH CLP shell.
+
+=head1 LICENSE
+
+This software is Copyright (c) 2021 by adjust GmbH.
+This is free software, licensed under: The GNU Lesser General Public License, Version 3, June 2007
+
+=head1 SUBROUTINES/METHODS
+
+=over 4
+
+=back
+
+=cut
+
+=head3 new
+
+Initialize a Rex::Interface::Shell::Ilo object.
+
+=cut
+
+=head3 detect
+
+Detect a Ilo (SMASH CLP) shell
+
+=over 4
+
+=back
+
+=cut
+
+=head3 exec
+
+Execute a command with the SMASH CLP shell.
+
+=cut
+
+
