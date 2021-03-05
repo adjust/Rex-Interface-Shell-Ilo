@@ -36,7 +36,7 @@ sub detect {
     } or do {
         return 0;
     };
-    if ( $output && $output =~ m/SM-CLP Version/ ) {
+    if ( $output && $output =~ m/SM-CLP Version/msx ) {
         return 1;
     }
 
