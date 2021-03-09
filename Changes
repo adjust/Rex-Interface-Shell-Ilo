@@ -1,8 +1,6 @@
 Revision history for Rex-Interface-Shell-Ilo
- 
-{{$NEXT}}
- - Initial release
 
+{{$NEXT}}
  [API CHANGES]
 
  [BUG FIXES]
@@ -10,3 +8,6 @@ Revision history for Rex-Interface-Shell-Ilo
  [DOCUMENTATION]
 
  [ENHANCEMENTS]
+
+v0.1.0 2021-03-09T13:45:52Z
+ - Initial release
